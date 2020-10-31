@@ -1,0 +1,7 @@
+C:\Users\dell\source\repos\blood_bank\blood_bank\obj\Debug\blood_bank.csprojAssemblyReference.cache
+C:\Users\dell\source\repos\blood_bank\blood_bank\obj\Debug\blood_bank.csproj.CoreCompileInputs.cache
+C:\Users\dell\source\repos\blood_bank\blood_bank\bin\Debug\blood_bank.exe.config
+C:\Users\dell\source\repos\blood_bank\blood_bank\bin\Debug\blood_bank.exe
+C:\Users\dell\source\repos\blood_bank\blood_bank\bin\Debug\blood_bank.pdb
+C:\Users\dell\source\repos\blood_bank\blood_bank\obj\Debug\blood_bank.exe
+C:\Users\dell\source\repos\blood_bank\blood_bank\obj\Debug\blood_bank.pdb
